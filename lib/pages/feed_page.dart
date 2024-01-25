@@ -202,7 +202,7 @@ class _FeedpageState extends State<FeedPage> {
                 SizedBox(width: 20),
                 Expanded(
                   child: ReadMoreText(
-                    'nice!!!!!!!!!!!',
+                    'nice!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!',
                     trimLines: 2,
                     colorClickableText: Colors.pink,
                     trimMode: TrimMode.Line,
